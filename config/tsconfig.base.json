@@ -5,8 +5,6 @@
     "moduleResolution": "NodeNext",
     "module": "NodeNext",
     "strict": true,
-    "alwaysStrict": true,
-    "declaration": true,
-    "declarationDir": "../types"
+    "alwaysStrict": true
   }
 }

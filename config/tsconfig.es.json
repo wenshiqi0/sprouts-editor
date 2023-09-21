@@ -3,7 +3,9 @@
   "compilerOptions": {
     "outDir": "../es",
     "baseUrl": "../src",
-    "target": "ESNext"
+    "target": "ESNext",
+    "declaration": true,
+    "declarationDir": "../types"
   },
   "include": [
     "../src/**/*.ts"
