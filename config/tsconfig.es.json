@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "../es",
+    "baseUrl": "../src",
+    "target": "ESNext"
+  },
+  "include": [
+    "../src/**/*.ts"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "allowJs": false,
+    "moduleResolution": "NodeNext",
+    "module": "NodeNext",
+    "strict": true,
+    "alwaysStrict": true,
+    "declaration": true,
+    "declarationDir": "../types"
+  }
+}
