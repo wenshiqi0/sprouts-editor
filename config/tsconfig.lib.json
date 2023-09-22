@@ -3,7 +3,9 @@
   "compilerOptions": {
     "outDir": "../lib",
     "baseUrl": "../src",
-    "target": "ES5"
+    "target": "ES5",
+    "moduleResolution": "NodeNext",
+    "module": "NodeNext"
   },
   "include": [
     "../src/**/*.ts"

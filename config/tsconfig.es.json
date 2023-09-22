@@ -4,6 +4,8 @@
     "outDir": "../es",
     "baseUrl": "../src",
     "target": "ESNext",
+    "moduleResolution": "Node",
+    "module": "ESNext",
     "declaration": true,
     "declarationDir": "../types"
   },

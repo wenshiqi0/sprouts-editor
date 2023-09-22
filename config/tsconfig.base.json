@@ -1,9 +1,8 @@
 {
   "compilerOptions": {
     "experimentalDecorators": true,
+    "esModuleInterop": true,
     "allowJs": false,
-    "moduleResolution": "NodeNext",
-    "module": "NodeNext",
     "strict": true,
     "alwaysStrict": true
   }
